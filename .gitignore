@@ -1,0 +1,17 @@
+# RStudio files
+.Rproj.user/
+.Rproj.user
+
+# History files
+.Rhistory
+.Rapp.history
+
+.RData
+*.RData
+
+# Movies
+*.wmv
+*.avi
+*.mp4
+
+**/Thumbs.db
